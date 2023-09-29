@@ -1,0 +1,18 @@
+autocracy | One hereditary ruler holds absolute power. Often supported by a well developed beurocracy or military. Could also stand as the only power in an anarchic society.
+bureaucracy | Various compartments compose the government. Power division principle. Department heads, ministers or secretaries answer to a figurehead autocrat or council.
+confederacy | Every city/town in the confederacy governs itself. In theory they all contribute to the league or federation that should promote the common good of all member states. Attitudes toward the central government vary within it.
+democracy | Eleced representatives determine the laws. A bureaucracy or military carries out the day-to-day work of government with positions filled through open elections.
+dictatorship | One supreme ruler holds absolute authority, but isn't necessarily dynastic. Resembles Autocracy otherwise.
+feudalism | Layers of lords and vassals. Vassals provide soldiers to scutage (payment in form of military service) to the lords who in turn promises protection to their vassals
+gerontocracy | Elders preside over the society. In some cases, long lived speicies aare entrusted with leadership of the land.
+hierarchy | A feudal or bureaucratic government where every member, except one, is subordinate to another member.
+kleptocracy | Composed of a group of individuals primarily seeking wealth for themselves, often at the expense of their subjects.
+magocracy | The governing body is composed of spellcasters who rule directly as oligarchs or feudal lords, or participate in a democracy or bureaucracy.
+matriarchy/patriarchy | The society is ran by the oldest or most important members of one gender.
+meritogracy | The most intelligent and educated people oversee the society. Often with a bureaucracy to oversee the day-to-day.
+militocracy | Military leaders run the nation under marital law, using the army and other armed forces. Might be baased on an elite group of soldiers, an order of riders or a league of sea princes.
+monarchy | A single hereditary sovereign wears the crown. Unlike autocracy, the monarchs power is limited by the law, and the ruler serves as the head of a democracy, feudal state or militocracy.
+oligarchy | A small number of absolite rulers share power, possiblu dividing the land into districts or provinces under their control, or jointly ruling together.
+plutocracy | Society is governed by the wealthy. The elite form a ruling council, purchase representation at the court of figurehead monarch, or rule bu default because money is the true power of the realm.
+republic | Government is entrusted to representatives of an established electorate  who rule on behalf of the electors. Any democracy in which only landowners or certain classes can vote could be considered a republic.
+satrapy | Conquerors and representatives of another government wield power,ruling the settlement or region as part pf a larger empire. The satraps are bureaucrats and military officers or unusual characters or monsters.

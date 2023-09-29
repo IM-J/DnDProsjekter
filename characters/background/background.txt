@@ -1,0 +1,46 @@
+acolyte
+anthropologist
+archaeologist
+astral drifter
+athlete
+celebrity
+charlatan
+city watcher
+courtier
+criminal/spy
+entertainer
+faceless
+faction agent
+failed merchant
+far traveler
+feylost
+fisher
+folk hero
+gambler
+gladiator
+haunted one
+hermit
+inheritor
+investigator
+knight
+lorehold student
+mage
+marine
+mercenary veteran
+noble
+outlander
+pirate
+plaintiff
+prismari student
+cultist
+rival intern
+rune carver
+sage
+sailor
+shipwright
+simic scientist
+smuggler
+soldier
+bounty hunter
+urchin
+tribe member

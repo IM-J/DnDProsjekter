@@ -1,0 +1,1 @@
+#should give an npc ruler + quick history.

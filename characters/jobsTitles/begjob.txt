@@ -1,0 +1,6 @@
+pirate
+bandit
+highwayrobber
+thief
+begger
+conartist

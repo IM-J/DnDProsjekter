@@ -1,0 +1,16 @@
+artificer
+barbarian
+bard
+blood hunter
+cleric
+druid
+fighter
+monk
+paladin
+ranger
+rogue
+sage
+sorcerer
+warlock
+wizard
+mystic

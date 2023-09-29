@@ -1,0 +1,6 @@
+Princess|Prince
+Queen|King
+Emperess|Emperor
+Archdutchess|Archduke
+Grand Duchess|Grand Duke
+Grand Princess|Grand Prince

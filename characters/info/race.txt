@@ -1,0 +1,31 @@
+dwarf
+elf
+halfling
+human
+gnome
+tiefling
+dragnoborn
+aasimar
+genasi
+goliath
+kenku
+tabaxi
+aarakocra
+orc
+firbolgs
+lizardfolk
+warforged
+changeling
+kalashtar
+shifters
+pelode (HB)
+fairy
+mermaid
+huldra
+Arakey (HB)
+phoen (HB)
+Triton
+Selkies
+Naiads
+Sea Elf
+Aquan

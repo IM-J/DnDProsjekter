@@ -1,0 +1,9 @@
+Baroness|Baron
+Dame|Baronet
+Countess|Count
+Duchess|Duke
+Countess|Earl
+Dame|Knight
+Lady|Lord
+Marquise|Marquess
+Viscountess|Viscount
